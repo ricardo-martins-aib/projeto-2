@@ -1,0 +1,13 @@
+body {background-color:lightpink;}
+h1, h2, h3 {color:black,; font-family: arial;}
+.destaque {background-color:red; margin 20px;}
+/* 1. desafio técnico:
+A regra mais díficil foi criar a clsse .destaque porque inicialmente foi confuso como adicioná-la ao site.
+ Consegui superar essa dificuldade pedindo ajuda à inteligência artificial.
+ 2. Correção de Sintaxe: 
+ Veriquei o código e confirmei que as etiquetas HTML estavam fechadas e que as regras css estavam corretamente escritas.
+ O meu erro mais comum foi esquecer-me de meter a barra para fechar os elementos do HTML.
+ 3.Autoria: 
+ Utilizei o atributo href para criar uma hiperligação externa.
+ Esse atributo serve para indicar o endereço da página para onde o utilizador será encaminhado quando clicar no respetivo link.
+ /*
